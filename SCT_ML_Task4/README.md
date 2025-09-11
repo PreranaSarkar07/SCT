@@ -1,4 +1,5 @@
-🖐️ Task 4: Hand Gesture Recognition
+**🖐️ Task 4: Hand Gesture Recognition**
+
 🎯 Project Objective
 
 The objective of this project is to develop a Hand Gesture Recognition Model that can accurately identify and classify different hand gestures from image data. Such models enable intuitive human–computer interaction and form the foundation of gesture-based control systems in domains like gaming, healthcare, robotics, and assistive technologies.
