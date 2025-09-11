@@ -1,4 +1,4 @@
-**🖐️ Task 4: Hand Gesture Recognition**
+# **🖐️ Task 4: Hand Gesture Recognition**
 
 🎯 Project Objective
 
